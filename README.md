@@ -7,6 +7,7 @@ Leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/N1ghtH0wk/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/N1ghtH0wk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Leetcode practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/N1ghtH0wk/DSA/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/N1ghtH0wk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
