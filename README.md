@@ -16,6 +16,7 @@ Leetcode practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/N1ghtH0wk/DSA/tree/master/0069-sqrtx) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/N1ghtH0wk/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,8 @@ Leetcode practice
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/N1ghtH0wk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/N1ghtH0wk/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
