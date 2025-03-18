@@ -8,6 +8,7 @@ Leetcode practice
 | ------- |
 | [0001-two-sum](https://github.com/N1ghtH0wk/DSA/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/N1ghtH0wk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0978-valid-mountain-array](https://github.com/N1ghtH0wk/DSA/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
